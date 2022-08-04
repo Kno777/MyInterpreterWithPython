@@ -1,0 +1,16 @@
+mka x = 99;
+gya k = 5.7;
+baj s = x // k;
+tpa >> s;
+mka u = 55;
+mka f = 44;
+gum l = u + f;
+tpa >> l;
+baz t = u * f;
+tpa >> t;
+rbj w = u / f;
+tpa >> w;
+txt q = "Hello";
+txt n = "Knyaz";
+tpa >> q;
+ete 10 > 5; then tpa >> n;
